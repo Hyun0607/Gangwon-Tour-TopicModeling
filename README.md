@@ -26,7 +26,7 @@
 - **불용어 제거**: 관광 리뷰에서 자주 등장하지만 정보성이 낮은 단어 제거
 <p align="center">
   <img src="./images/불용어 처리.png" width="800">
-  <img src="./images/제거후.png" width="400">
+  <img src="./images/제거후.png" width="800">
 </p>
 
 ### 📌 2. LDA 기반 토픽 모델링
