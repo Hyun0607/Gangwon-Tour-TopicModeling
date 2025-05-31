@@ -35,6 +35,11 @@
 - 각 관광지를 **도출된 주요 토픽 기준으로 분류**하여 관광 목적별 그룹화
 - 단어 검색 기능 구현: 특정 키워드로 연관 관광지 조회
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb4599b6-51c3-4f26-a5c1-4422e43d90fc" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5b813a3b-cb94-4393-a62e-6e19028a8fe3" width="45%" />
+</p>
+
 ---
 
 ## 📊 결과 예시
