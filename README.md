@@ -40,8 +40,8 @@
 - 단어 검색 기능 구현: 특정 키워드로 연관 관광지 조회
 
 <p align="center">
-  <img src="./images/DFE.png" width="400">
-  <img src="./images/ere.png" width="400">
+  <img src="./images/DFE.png" width="800">
+  <img src="./images/ere.png" width="800">
 </p>
 
 
