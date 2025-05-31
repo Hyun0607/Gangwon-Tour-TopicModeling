@@ -24,6 +24,10 @@
 - 한글 리뷰 정제: 특수문자 제거, 한글만 추출
 - **형태소 분석**: `MeCab`을 이용해 명사 추출
 - **불용어 제거**: 관광 리뷰에서 자주 등장하지만 정보성이 낮은 단어 제거
+<p align="center">
+  <img src="./images/DFE.png" width="400">
+  <img src="./images/ere.png" width="400">
+</p>
 
 ### 📌 2. LDA 기반 토픽 모델링
 - 관광지별 리뷰 데이터를 LDA 모델 학습에 적합한 형태로 변환
@@ -36,9 +40,10 @@
 - 단어 검색 기능 구현: 특정 키워드로 연관 관광지 조회
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eb4599b6-51c3-4f26-a5c1-4422e43d90fc" width="45%" />
-  <img src="https://github.com/user-attachments/assets/5b813a3b-cb94-4393-a62e-6e19028a8fe3" width="45%" />
+  <img src="./images/DFE.png" width="400">
+  <img src="./images/ere.png" width="400">
 </p>
+
 
 ---
 
